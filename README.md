@@ -37,7 +37,7 @@ I'm currently working on a portfolio of projects to showcase my skills in data a
 - **Dataset:** TBD
 
 ## 📫 **Connect With Me**
-- 🔗 [LinkedIn](#https://www.linkedin.com/in/s%C3%A9rgioantunes/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sérgioantunes/)  
 - 📧 Email: sergio.antunesf@gmail.com  
 - 🌍 Personal Portfolio (Coming Soon!)
 
